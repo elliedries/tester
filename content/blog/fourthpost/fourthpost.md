@@ -1,14 +1,15 @@
 ---
-title: This is my fourth post.
-description: This is a post on My Blog about touchpoints and circling wagons.
-date: 2018-09-30
+title: 2023
+description: Works from 2023
+date: 2023-04-29
 tags: second tag
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The following works are from 2023
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+{% image "./Applicant1_6_OZZY.jpg", "A dog looking at you on rainbow carpet" %}
+Ozzy, Oil on Canvas, X"" x X""
+{% image "./DRIES_5_RACHELANDPOPPY.jpg", "A person looking at a yellow bird on their shoulder." %}
 
-{% image "./possum.png", "A possum parent and two possum kids hanging from the iconic red balloon" %}
 
 ## Section Header
 

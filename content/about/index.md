@@ -6,4 +6,7 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+I am a self-taught painter from Arizona and currently living in D.C. 
+
+{% image "./IMG_9877.jpg", "A person looking back at the camera with a painting behind them" %}
+
