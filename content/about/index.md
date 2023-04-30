@@ -8,5 +8,5 @@ eleventyNavigation:
 
 I am a self-taught painter from Arizona and currently living in D.C. 
 
-{% image "./IMG_9877.jpg", "A person looking back at the camera with a painting behind them" %}
+{% image "./IMG_9877.jpg", "A person looking back at the camera with a painting behind them", [608px] %}
 
