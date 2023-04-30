@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://elliedries.github.io/blog/firstpost/</loc>
+		<loc>https://elliedries.github.io/tester/blog/firstpost/</loc>
 		<lastmod>2018-05-01</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://elliedries.github.io/blog/secondpost/</loc>
+		<loc>https://elliedries.github.io/tester/blog/secondpost/</loc>
 		<lastmod>2018-07-04</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://elliedries.github.io/blog/thirdpost/</loc>
+		<loc>https://elliedries.github.io/tester/blog/thirdpost/</loc>
 		<lastmod>2018-08-24</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://elliedries.github.io/blog/fourthpost/</loc>
+		<loc>https://elliedries.github.io/tester/blog/fourthpost/</loc>
 		<lastmod>2023-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://elliedries.github.io/about/</loc>
+		<loc>https://elliedries.github.io/tester/about/</loc>
 		<lastmod>2023-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://elliedries.github.io/blog/</loc>
+		<loc>https://elliedries.github.io/tester/blog/</loc>
 		<lastmod>2023-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://elliedries.github.io/</loc>
+		<loc>https://elliedries.github.io/tester/</loc>
 		<lastmod>2023-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://elliedries.github.io/tags/</loc>
+		<loc>https://elliedries.github.io/tester/tags/</loc>
 		<lastmod>2023-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://elliedries.github.io/tags/number-2/</loc>
+		<loc>https://elliedries.github.io/tester/tags/number-2/</loc>
 		<lastmod>2023-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://elliedries.github.io/tags/another-tag/</loc>
+		<loc>https://elliedries.github.io/tester/tags/another-tag/</loc>
 		<lastmod>2023-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://elliedries.github.io/tags/second-tag/</loc>
+		<loc>https://elliedries.github.io/tester/tags/second-tag/</loc>
 		<lastmod>2023-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://elliedries.github.io/tags/posts-with-two-tags/</loc>
+		<loc>https://elliedries.github.io/tester/tags/posts-with-two-tags/</loc>
 		<lastmod>2023-04-29</lastmod>
 	</url>
 </urlset>
