@@ -42,22 +42,22 @@
 	</url>
 	
 	<url>
-		<loc>https://elliedries.github.io/tester/tags/another-tag/</loc>
-		<lastmod>2023-04-29</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://elliedries.github.io/tester/tags/number-2/</loc>
-		<lastmod>2023-04-29</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://elliedries.github.io/tester/tags/second-tag/</loc>
 		<lastmod>2023-04-29</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://elliedries.github.io/tester/tags/posts-with-two-tags/</loc>
+		<lastmod>2023-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://elliedries.github.io/tester/tags/another-tag/</loc>
+		<lastmod>2023-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://elliedries.github.io/tester/tags/number-2/</loc>
 		<lastmod>2023-04-29</lastmod>
 	</url>
 </urlset>

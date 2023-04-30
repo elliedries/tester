@@ -16,10 +16,13 @@
 		<link href="https://elliedries.github.io/tester/blog/fourthpost/"/>
 		<updated>2023-04-29T00:00:00Z</updated>
 		<id>https://elliedries.github.io/tester/blog/fourthpost/</id>
-		<content type="html">&lt;p&gt;The following works are from 2023&lt;/p&gt;
-&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://elliedries.github.io/tester/img/4s2JXnmEDH-1844.avif 1844w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://elliedries.github.io/tester/img/4s2JXnmEDH-1844.webp 1844w&quot;&gt;&lt;img alt=&quot;A dog looking at you on rainbow carpet&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://elliedries.github.io/tester/img/4s2JXnmEDH-1844.jpeg&quot; width=&quot;1844&quot; height=&quot;2500&quot;&gt;&lt;/picture&gt;
+		<content type="html">&lt;p&gt;The following works are from 2023
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://elliedries.github.io/tester/img/mOBDBcIhTY-2689.avif 2689w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://elliedries.github.io/tester/img/mOBDBcIhTY-2689.webp 2689w&quot;&gt;&lt;img alt=&quot;Woman with neck scar&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://elliedries.github.io/tester/img/mOBDBcIhTY-2689.jpeg&quot; width=&quot;2689&quot; height=&quot;3066&quot;&gt;&lt;/picture&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://elliedries.github.io/tester/img/_QWG7iwkD_-2389.avif 2389w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://elliedries.github.io/tester/img/_QWG7iwkD_-2389.webp 2389w&quot;&gt;&lt;img alt=&quot;Woman with neck scar&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://elliedries.github.io/tester/img/_QWG7iwkD_-2389.jpeg&quot; width=&quot;2389&quot; height=&quot;3304&quot;&gt;&lt;/picture&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://elliedries.github.io/tester/img/4s2JXnmEDH-1844.avif 1844w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://elliedries.github.io/tester/img/4s2JXnmEDH-1844.webp 1844w&quot;&gt;&lt;img alt=&quot;A dog looking at you on rainbow carpet&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://elliedries.github.io/tester/img/4s2JXnmEDH-1844.jpeg&quot; width=&quot;1844&quot; height=&quot;2500&quot;&gt;&lt;/picture&gt;
 Ozzy, Oil on Canvas, X&amp;quot;&amp;quot; x X&amp;quot;&amp;quot;
 &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://elliedries.github.io/tester/img/hABO2YkuTQ-1648.avif 1648w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://elliedries.github.io/tester/img/hABO2YkuTQ-1648.webp 1648w&quot;&gt;&lt;img alt=&quot;A person looking at a yellow bird on their shoulder.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://elliedries.github.io/tester/img/hABO2YkuTQ-1648.jpeg&quot; width=&quot;1648&quot; height=&quot;1369&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://elliedries.github.io/tester/img/WyyJrJBCM--2299.avif 2299w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://elliedries.github.io/tester/img/WyyJrJBCM--2299.webp 2299w&quot;&gt;&lt;img alt=&quot;A woman in a cap at a bar.&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://elliedries.github.io/tester/img/WyyJrJBCM--2299.jpeg&quot; width=&quot;2299&quot; height=&quot;2633&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
 &lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;header-anchor&quot; href=&quot;https://elliedries.github.io/tester/blog/fourthpost/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
 </content>
@@ -59,7 +62,7 @@ console.log(&#39;Test&#39;);
 	</entry>
 	
 	<entry>
-		<title>Drawings and Works with Paper</title>
+		<title>2020</title>
 		<link href="https://elliedries.github.io/tester/blog/secondpost/"/>
 		<updated>2018-07-04T00:00:00Z</updated>
 		<id>https://elliedries.github.io/tester/blog/secondpost/</id>
@@ -73,7 +76,7 @@ console.log(&#39;Test&#39;);
 	</entry>
 	
 	<entry>
-		<title>This is my first post.</title>
+		<title>Drawings and Paper</title>
 		<link href="https://elliedries.github.io/tester/blog/firstpost/"/>
 		<updated>2018-05-01T00:00:00Z</updated>
 		<id>https://elliedries.github.io/tester/blog/firstpost/</id>
